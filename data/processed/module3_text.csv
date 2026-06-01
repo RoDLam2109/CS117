@@ -1,0 +1,4 @@
+student_id,text_sentiment_score,risk_from_text
+1,0.35,0.40
+2,0.15,0.75
+3,0.70,0.20

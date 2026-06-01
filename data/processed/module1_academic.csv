@@ -1,0 +1,4 @@
+student_id,course_id,academic_risk_score
+1,M1,0.35
+2,M1,0.72
+3,M1,0.15
